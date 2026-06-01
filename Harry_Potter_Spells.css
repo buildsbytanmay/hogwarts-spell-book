@@ -19,3 +19,18 @@ body {
     background-image: url(/1000_F_223060577_Up871tVFzW9s3J5y6ILNQnDiPeOOsBTC\ \(1\).jpg);
     background-size: cover;
 }
+
+.cont {
+    /* border: 2px solid black; */
+    width: 49vw;
+    height: 95vh;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    align-items: center;
+    background-image: url(/book-cover-diary-journal-text-book.png);
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center;
+    margin: auto;
+}
