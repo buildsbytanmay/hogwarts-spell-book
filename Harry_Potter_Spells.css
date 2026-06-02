@@ -54,3 +54,12 @@ body {
     font-size: 50px;
     box-sizing: border-box;
 }
+
+
+#spell {
+    padding-left: 40px;
+}
+
+#use {
+    padding-right: 60px;
+}
