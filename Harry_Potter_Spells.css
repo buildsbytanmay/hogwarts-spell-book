@@ -55,11 +55,20 @@ body {
     box-sizing: border-box;
 }
 
-
 #spell {
     padding-left: 40px;
 }
 
 #use {
+    padding-right: 60px;
+}
+
+#box1 {
+    padding-left: 100px;
+    padding-right: 60px;
+}
+
+#box2 {
+    padding-left: 25px;
     padding-right: 60px;
 }
