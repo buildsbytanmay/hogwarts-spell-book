@@ -91,3 +91,18 @@ body {
     border: 5px solid brown;
     outline: 5px solid black;
 }
+
+.stick img {
+    position: absolute;
+    left: 1000px;
+    top: 250px;
+    transform: rotate(260deg);
+}
+
+.title img {
+    width: 400px;
+    height: auto;
+    position: absolute;
+    right: 0px;
+    bottom: 500px;
+}
