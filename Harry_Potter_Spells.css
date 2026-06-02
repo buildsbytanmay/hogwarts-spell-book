@@ -72,3 +72,22 @@ body {
     padding-left: 25px;
     padding-right: 60px;
 }
+
+#nbtn {
+    width: 20vw;
+    height: 6vh;
+    font-size: 20px;
+    font-weight: 800;
+    background-color: #d6b693;
+    border: 5px solid black;
+    border-radius: 5px;
+    position: absolute;
+    bottom: 3vh;
+    left: 40vw;
+    cursor: pointer;
+}
+
+#nbtn:hover {
+    border: 5px solid brown;
+    outline: 5px solid black;
+}
