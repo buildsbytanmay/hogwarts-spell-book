@@ -121,3 +121,63 @@ body {
     color: white;
     text-shadow: 5px 5px 5px black;
 }
+
+@media screen and (max-width: 450px) {
+    body {
+        background-size: 1450px;
+        background-position: cover;
+    }
+
+    .cont {
+        width: 1450px;
+        height: 1300px;
+        position: relative;
+        right: 10px;
+        top: 900px;
+    }
+
+    .title img {
+        width: 1200px;
+        top: 5px;
+        left: 120px;
+    }
+
+    .heading {
+        font-size: 140px;
+        width: 900px;
+        left: 250px;
+        top: 550px;
+    }
+
+    #nbtn {
+        top: 2300px;
+        left: 380px;
+        width: 700px;
+        height: 150px;
+        font-size: 100px;
+    }
+
+    .head {
+        font-size: 150px;
+        margin-top: 50px;
+        text-shadow: 10px 10px 30px black;
+    }
+
+    #spell {
+        padding-left: 60px;
+    }
+
+    #box1,
+    #box2 {
+        font-size: 100px;
+        margin-bottom: 195px;
+        text-shadow: 10px 10px 30px black;
+    }
+
+    #box1 {
+        width: 620px;
+        padding: 0;
+        margin-left: 72px;
+        word-break: break-all;
+    }
+}
