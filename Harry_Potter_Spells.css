@@ -106,3 +106,18 @@ body {
     right: 0px;
     bottom: 500px;
 }
+
+.title {
+    background-color: black;
+}
+
+.heading {
+    position: absolute;
+    width: 400px;
+    left: 0px;
+    text-align: center;
+    font-size: 50px;
+    bottom: 500px;
+    color: white;
+    text-shadow: 5px 5px 5px black;
+}
