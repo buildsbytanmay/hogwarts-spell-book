@@ -16,7 +16,7 @@
 body {
     height: 100vh;
     width: 100vw;
-    background-image: url(/1000_F_223060577_Up871tVFzW9s3J5y6ILNQnDiPeOOsBTC\ \(1\).jpg);
+    background-image: url(Assets/wood_background.jpg);
     background-size: cover;
 }
 
@@ -28,7 +28,7 @@ body {
     flex-wrap: wrap;
     justify-content: center;
     align-items: center;
-    background-image: url(/book-cover-diary-journal-text-book.png);
+    background-image: url(Assets/book-cover-diary-journal-text-book.png);
     background-size: cover;
     background-repeat: no-repeat;
     background-position: center;
