@@ -10,3 +10,16 @@ async function getSpells(i){
     spellbox.innerText = spells[i].spell;
     usebox.innerText = spells[i].use;
 }
+
+let i = 0;
+let nbtn = document.querySelector("#nbtn");
+nbtn.addEventListener("click", () => {
+    if(i >= 0 && i <= 71){
+        getSpells(i);
+        i++;
+    }
+    else{
+        i = 0;
+    }
+    console.log(i);
+})
