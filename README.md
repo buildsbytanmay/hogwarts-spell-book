@@ -8,3 +8,9 @@ A web app that displays Harry Potter spells and their uses, fetched from a live 
 - Displays spell name and its use side by side
 - Themed UI with a wooden background, spell book, wand, and Harry Potter logo
 - Responsive design with mobile support
+
+## Tech Stack
+
+- HTML, CSS, Vanilla JavaScript
+- [Potter API](https://potterapi-fedeperin.vercel.app) for spell data
+- MedievalSharp Google Font for thematic styling
