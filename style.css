@@ -63,6 +63,14 @@ body {
     padding-right: 60px;
 }
 
+#box1,
+#box2 {
+    box-sizing: border-box;
+    margin-bottom: 150px;
+    font-size: 40px;
+    text-align: center;
+}
+
 #box1 {
     padding-left: 100px;
     padding-right: 60px;
