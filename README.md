@@ -14,3 +14,8 @@ A web app that displays Harry Potter spells and their uses, fetched from a live 
 - HTML, CSS, Vanilla JavaScript
 - [Potter API](https://potterapi-fedeperin.vercel.app) for spell data
 - MedievalSharp Google Font for thematic styling
+
+## How to Use
+
+1. Open `index.html` in a browser
+2. Click **Next Spell** to cycle through spells one by one
