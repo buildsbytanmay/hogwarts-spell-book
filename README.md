@@ -19,3 +19,17 @@ A web app that displays Harry Potter spells and their uses, fetched from a live 
 
 1. Open `index.html` in a browser
 2. Click **Next Spell** to cycle through spells one by one
+
+## Project Structure
+
+```
+Harry Potter/
+├── Assets/
+│   ├── harry_potter.png
+│   ├── magic_stick.png
+│   ├── wood_background.jpg
+│   └── book-cover-diary-journal-text-book.png
+├── index.html
+├── style.css
+└── script.js
+```
