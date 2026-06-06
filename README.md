@@ -33,3 +33,9 @@ Harry Potter/
 ├── style.css
 └── script.js
 ```
+
+## API Used
+
+**Endpoint:** `https://potterapi-fedeperin.vercel.app/en/spells`
+
+Returns a list of spells with `spell` and `use` fields.
