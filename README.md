@@ -15,6 +15,10 @@ A web app that displays Harry Potter spells and their uses, fetched from a live 
 - [Potter API](https://potterapi-fedeperin.vercel.app) for spell data
 - MedievalSharp Google Font for thematic styling
 
+## Live Demo
+
+🔗 [https://buildsbytanmay.github.io/hogwarts-spell-book/](https://buildsbytanmay.github.io/hogwarts-spell-book/)
+
 ## How to Use
 
 1. Open `index.html` in a browser
